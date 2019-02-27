@@ -5,4 +5,3 @@ def using_until
       puts "Wingardium levitation_force"
       levitation_force += 1
 end
-
